@@ -49,4 +49,6 @@ app.*.map.json
 *.jks
 
 # Cmds
+/gitme.cmd
+*.cmd
 gitme.cmd
